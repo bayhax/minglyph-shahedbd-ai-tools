@@ -599,6 +599,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [Looka](https://looka.com) — AI logo and complete brand identity generator.
 - [Brandmark](https://brandmark.io) — AI-based logo design with brand kit generation.
 - [Napkin](https://napkin.ai) — Turn text into visual diagrams and infographics instantly. `#free`
+- [Minglyph](https://minglyph.com/) — Create static lettering-image concepts from exact words, names, or mixed-language text; review spelling and place the PNG in a separate layout editor. `#freemium`
 
 ### 3D Generation
 
